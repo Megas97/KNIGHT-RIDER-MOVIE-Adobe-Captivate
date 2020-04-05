@@ -1,0 +1,9 @@
+Knight Rider KITT Information: https://knight-rider.fandom.com/wiki/Category:Original_Series_Technology
+Knight Rider Wiki Information: https://en.wikipedia.org/wiki/Knight_Rider_(1982_TV_series)
+Adobe Captivate Rollover Image: https://www.youtube.com/watch?v=UUI3QNh_WgU
+Adobe Captivate Video Demo: https://www.youtube.com/watch?v=ZjDtw29vl1Y
+Adobe Captivate Quizzing: https://www.youtube.com/watch?v=1XyyAscVNPA
+Insert Audio (Background Music): https://helpx.adobe.com/captivate/using/insert-audio.html
+Manage Objects (Unused Objects): https://helpx.adobe.com/captivate/using/library-objects.html
+Quiz Continue Button Not Working: https://community.adobe.com/t5/captivate/continue-button-on-quiz-results-slide-not-working-captivate-7/td-p/5838637
+Replace One Image With Another: https://community.adobe.com/t5/captivate/replace-one-image-with-another/td-p/8176042
